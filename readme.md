@@ -1,6 +1,6 @@
 ## Inversion of Control (IoC) and Dependency Injection (DI)
 
-### Imagine that an email is sent in different tasks spread across the system, and now you need to change the password!
+### Imagine that an email is sent in different tasks spread across the system, and now you need to change the password.
 
 ```
 public class Order {
